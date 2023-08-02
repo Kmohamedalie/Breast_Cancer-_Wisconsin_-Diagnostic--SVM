@@ -6,7 +6,7 @@
 ### **Dataset available on:** [UCI Machine Learning Breast Cancer Wisconsin (Diagnostic)](http://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic) , [Kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
 **Developers' Guide:** [Amazon Machine Learning](https://docs.aws.amazon.com/pdfs/machine-learning/latest/dg/machinelearning-dg.pdf#cross-validation)                                             
-**Link to the notebook:** [Breast Cancer Wisconsin (Diagnostic)-SVM](https://github.com/Kmohamedalie/Detectecting_Heart_Disease-SVM/blob/master/Notebook/Heart_Disease_SVM.ipynb)
+**Link to the notebook:** [Breast Cancer Wisconsin (Diagnostic)-SVM](https://github.com/Kmohamedalie/Breast_Cancer_Wisconsin_Diagnostic-SVM/blob/master/Notebook/Breast_Cancer_Wisconsin_(Diagnostic)_SVM.ipynb)
 #### **[The Guardian: AI system outperforms experts in spotting breast cancer](https://www.theguardian.com/society/2020/jan/01/ai-system-outperforms-experts-in-spotting-breast-cancer)**
 ![image](https://github.com/Kmohamedalie/Breast_Cancer_Wisconsin_Diagnostic-SVM/assets/63104472/e231dabe-a120-4d51-ba84-137f3741396d)
 
