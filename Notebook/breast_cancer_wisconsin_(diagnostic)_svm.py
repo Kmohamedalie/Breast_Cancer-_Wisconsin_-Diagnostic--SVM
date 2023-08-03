@@ -133,10 +133,10 @@ fig, ax = plt.subplots(figsize=(8, 5))
 
 cmp = ConfusionMatrixDisplay(
     confusion_matrix(y_test, y_pred_test),
-    display_labels=['malignant', "benign"]
+    display_labels=["benign", 'malignant']
 )
 
 cmp.plot(ax=ax);
 
 # print a summary classification_report
-print(classification_report(y_test, y_pred_test, target_names = ['malignant', "benign"]))
+print(classification_report(y_test, y_pred_test, target_names = ["benign", 'malignant']))
