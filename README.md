@@ -6,11 +6,28 @@
 ### **Dataset available on:** [UCI Machine Learning Breast Cancer Wisconsin (Diagnostic)](http://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic) , [Kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
 **Developers' Guide:** [Amazon Machine Learning](https://docs.aws.amazon.com/pdfs/machine-learning/latest/dg/machinelearning-dg.pdf#cross-validation)                                             
-**Link to the notebook:** [Breast Cancer Wisconsin (Diagnostic)-SVM](https://github.com/Kmohamedalie/Breast_Cancer_Wisconsin_Diagnostic-SVM/blob/master/Notebook/Breast_Cancer_Wisconsin_(Diagnostic)_SVM.ipynb)
-#### **[The Guardian: AI system outperforms experts in spotting breast cancer](https://www.theguardian.com/society/2020/jan/01/ai-system-outperforms-experts-in-spotting-breast-cancer)**
-![image](https://github.com/Kmohamedalie/Breast_Cancer_Wisconsin_Diagnostic-SVM/assets/63104472/e231dabe-a120-4d51-ba84-137f3741396d)
+**Complete jupyternotebook:** [Breast Cancer Wisconsin (Diagnostic)-SVM](https://github.com/Kmohamedalie/Breast_Cancer_Wisconsin_Diagnostic-SVM/blob/master/Notebook/Breast_Cancer_Wisconsin_(Diagnostic)_SVM.ipynb)
 
-### **About Dataset:** <br>
+| Algorithm | Precision | Recall | F1-score | Accuracy |
+|-----------|-----------|--------|----------|----------|
+| Support Vector Machine (SVM)  | 97%       |  97%    | 97%       | 97%     |
+
+
+#### **[The Guardian: AI system outperforms experts in spotting breast cancer](https://www.theguardian.com/society/2020/jan/01/ai-system-outperforms-experts-in-spotting-breast-cancer)**
+
+
+https://github.com/Kmohamedalie/Breast_Cancer_Wisconsin_Diagnostic-SVM/assets/63104472/71482747-b3eb-4c8f-a0ad-cfe2f8a335fc
+
+**More youtube videos:** [Northwestern University](https://www.youtube.com/watch?v=Mur70YjInmI), [Frontline PBS](https://www.youtube.com/watch?v=qGoCUpa8Qbo&t=230s) 
+
+<!-- ![image](https://github.com/Kmohamedalie/Breast_Cancer_Wisconsin_Diagnostic-SVM/assets/63104472/e231dabe-a120-4d51-ba84-137f3741396d)  -->
+
+
+
+<br>
+
+
+### **Additiona information about Dataset:** <br>
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image. <br>
 n the 3-dimensional space is that described in: [K. P. Bennett and O. L. Mangasarian: "Robust Linear Programming Discrimination of Two Linearly Inseparable Sets", Optimization Methods and Software 1, 1992, 23-34]. <br>
 
