@@ -25,7 +25,7 @@ https://github.com/Kmohamedalie/Breast_Cancer_Wisconsin_Diagnostic-SVM/assets/63
 
 
 <br>
-
+ 
 
 ### **Additiona information about Dataset:** <br>
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image. <br>
